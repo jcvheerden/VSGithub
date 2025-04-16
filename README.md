@@ -1,13 +1,13 @@
-# the Babhy Cow Application
+# The Baby Cow Application
 
 This application .........
 ---
 
 
 ## How To Run The Application
-1. Step 1
-2. Step 2
-3. Step 3
+1. Write Step 1 here
+2. Write Step 2 here
+3. Write Step 3 here
 
 ### How to Use the Application
 - Type here something interesting
